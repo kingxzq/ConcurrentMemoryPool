@@ -1,0 +1,10 @@
+﻿  Benchmark.cpp
+  CentralCache.cpp
+  PageCache.cpp
+  ThreadCache.cpp
+  UnitTest.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 268 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  ConcurrentMemoryPool.vcxproj -> E:\study\Project\ConcurrentMemoryPool\Release\ConcurrentMemoryPool.exe

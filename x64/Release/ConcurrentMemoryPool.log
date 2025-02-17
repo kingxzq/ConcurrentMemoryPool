@@ -1,0 +1,40 @@
+﻿  Benchmark.cpp
+E:\study\Project\ConcurrentMemoryPool\ConcurrentMemoryPool\Common.h(202,23): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+  (编译源文件“Benchmark.cpp”)
+  
+E:\study\Project\ConcurrentMemoryPool\ConcurrentMemoryPool\Common.h(242,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“Benchmark.cpp”)
+  
+  CentralCache.cpp
+E:\study\Project\ConcurrentMemoryPool\ConcurrentMemoryPool\Common.h(202,23): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+  (编译源文件“CentralCache.cpp”)
+  
+E:\study\Project\ConcurrentMemoryPool\ConcurrentMemoryPool\Common.h(242,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“CentralCache.cpp”)
+  
+  PageCache.cpp
+E:\study\Project\ConcurrentMemoryPool\ConcurrentMemoryPool\Common.h(202,23): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+  (编译源文件“PageCache.cpp”)
+  
+E:\study\Project\ConcurrentMemoryPool\ConcurrentMemoryPool\Common.h(242,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“PageCache.cpp”)
+  
+  ThreadCache.cpp
+E:\study\Project\ConcurrentMemoryPool\ConcurrentMemoryPool\Common.h(202,23): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+  (编译源文件“ThreadCache.cpp”)
+  
+E:\study\Project\ConcurrentMemoryPool\ConcurrentMemoryPool\Common.h(242,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“ThreadCache.cpp”)
+  
+  UnitTest.cpp
+E:\study\Project\ConcurrentMemoryPool\ConcurrentMemoryPool\Common.h(202,23): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+  (编译源文件“UnitTest.cpp”)
+  
+E:\study\Project\ConcurrentMemoryPool\ConcurrentMemoryPool\Common.h(242,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“UnitTest.cpp”)
+  
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 268 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  ConcurrentMemoryPool.vcxproj -> E:\study\Project\ConcurrentMemoryPool\x64\Release\ConcurrentMemoryPool.exe
