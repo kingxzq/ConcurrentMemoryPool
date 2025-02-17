@@ -114,11 +114,7 @@ TCMalloc_PageMap1<32-PAGE_SHIFT> _idSpanMap;
 ### 性能对比
 
 通过Benchmark测试（4线程/10000次操作）：
-
-```
-concurrent alloc&dealloc 400000次，总计花费：732 ms 
-malloc&free 400000次，总计花费：1423 ms
-```
+![image](https://github.com/user-attachments/assets/fe75c467-c2fe-4b48-9497-47e783cc5375)
 
 优势体现：
 
