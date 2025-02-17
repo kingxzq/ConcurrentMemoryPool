@@ -1,0 +1,2 @@
+# ConcurrentMemoryPool
+参考Google TCmalloc源码实现的高并发内存池项目
